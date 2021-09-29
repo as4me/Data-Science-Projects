@@ -1,2 +1,2 @@
-# Data Science Projects
- All my projects connected to Data Science
+# Тестовое задание по аналитике в яндекс
+https://drive.google.com/drive/folders/1Sooc5cXsiCiNljeFdGpqYXMjixAySiLu?usp=sharing
