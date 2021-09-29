@@ -1,4 +1,4 @@
-# Data Science Projects
+# Skillbox Lab 1
 https://drive.google.com/file/d/1QidlgmzBrp6h-NVKRbaZp_OVrq49sbR4/view?usp=sharing
 
 Описание работы:
